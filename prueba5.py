@@ -12,3 +12,5 @@ print(f'''El resultado de la suma es {suma}
 El resultado de la resta es {resta}.
 El resultado de la multiplicacion es {multiplicacion}.
 El resultado de la division es {division} ''')
+
+print('Asi de facil es usar Git')
