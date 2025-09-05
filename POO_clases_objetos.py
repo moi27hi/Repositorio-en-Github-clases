@@ -33,3 +33,6 @@ celular2.cortar()
 
 
 
+
+
+
